@@ -1,0 +1,14 @@
+# Ignore DS_Store
+*.DS_Store
+
+*.ipynb_checkpoints
+
+*.ipynb
+
+./input/H1B_FY_2014.csv
+./input/H1B_FY_2015.csv
+./input/H1B_FY_2016.csv
+
+./insight_testsuite/temp/
+
+./insight_testsuite/results.txt
